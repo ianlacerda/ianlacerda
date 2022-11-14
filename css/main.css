@@ -1,0 +1,2064 @@
+/* Text Elements */
+
+h1.big-text-name-project {
+  max-width: 1200px;
+  color: #00ffe3;
+  text-align: left;
+  font-weight: 100;
+  font-size: 48px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1.heading-1 {
+  margin-top: 10.88rem;
+  margin-bottom: 4rem;
+  color: #00f0ff;
+  text-align: left;
+  font-weight: 200;
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 30px;
+}
+
+h1.head-4 {
+  position: static;
+  -ms-flex-order: 0;
+  float: none;
+  clear: none;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  color: #002459;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 4.42rem;
+  font-family: 'Poppins', sans-serif;
+
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0;
+     -moz-box-flex: 1;
+      -ms-flex: 1 0;
+          flex: 1 0;
+  -webkit-text-stroke-color: #00f0ff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+          align-self: auto;
+  justify-self: auto;
+  grid-area: auto / auto / auto / auto;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+     -moz-box-ordinal-group: 1;
+          order: 0;
+}
+
+h1.head-10 {
+  position: static;
+  -ms-flex-order: 0;
+  float: none;
+  clear: none;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 16px;
+  color: #002d6c;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 4.42rem;
+  font-family: 'Poppins', sans-serif;
+
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0;
+     -moz-box-flex: 1;
+      -ms-flex: 1 0;
+          flex: 1 0;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+          align-self: auto;
+  justify-self: auto;
+  grid-area: auto / auto / auto / auto;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+     -moz-box-ordinal-group: 1;
+          order: 0;
+}
+
+h1.head-2 {
+  position: static;
+  -ms-flex-order: 0;
+  float: none;
+  clear: none;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  margin-top: 4rem;
+  color: #002459;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 3.42rem;
+  font-family: 'Poppins', sans-serif;
+
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0;
+     -moz-box-flex: 1;
+      -ms-flex: 1 0;
+          flex: 1 0;
+  -webkit-text-stroke-color: #00f0ff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+          align-self: auto;
+  justify-self: auto;
+  grid-area: auto / auto / auto / auto;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+     -moz-box-ordinal-group: 1;
+          order: 0;
+}
+
+h2.centered {
+  color: #e2a884;
+  text-align: center;
+}
+
+h2.turquoise {
+  color: #50b1a9;
+}
+
+h2.centered.turquoise {
+  max-width: 1200px;
+  color: #fcca1d;
+  font-style: normal;
+  font-size: 28px;
+  font-family: 'Bowlby One', cursive;
+}
+
+h2#lime {
+  color: #74bc57;
+}
+
+h3.skills-title {
+  margin-top: 1rem;
+  color: #00f0ff;
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h3.contact-title {
+  color: #00ffe3;
+  font-size: 20px;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+h3.brand-title {
+  color: #00ffe3;
+  text-align: center;
+  font-size: 20px;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+h5.skills_name {
+  color: #00f0ff;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h5.footer-name {
+  margin-bottom: 1rem;
+  color: #fefefe;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: 'Poppins', sans-serif;
+}
+
+p.paragraph.body-text {
+  margin-bottom: 4rem;
+  max-width: 800px;
+  color: #fff;
+  text-align: left;
+  font-weight: 300;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 30px;
+}
+
+p.paragraph.centered {
+  color: #383838;
+  text-align: center;
+}
+
+p.paragraph.light {
+  color: #898989;
+}
+
+p.paragraph.centered.light {
+  color: #898989;
+  text-align: center;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+p.paragraph span.uppercase-p-1 {
+  text-transform: uppercase;
+  letter-spacing: .0625rem;
+}
+
+p.paragraph.body-text.skill {
+  margin-bottom: 1rem;
+}
+
+p.paragraph.about-me {
+  max-width: 1200px;
+  color: #00f0ff;
+  font-weight: 200;
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+}
+
+p.paragraph.project-description {
+  max-width: 1200px;
+  color: #181818;
+  font-size: 28px;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+p.paragraph span.paragraph-text-1 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-2 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-3 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-4 {
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-5 {
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-6 {
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-7 {
+  font-weight: 400;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-8 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-9 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-10 {
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-11 {
+  font-weight: 400;
+}
+
+p.paragraph span.paragraph-text-12 {
+  font-weight: 700;
+}
+
+p.paragraph span.paragraph-text-13 {
+  font-weight: 400;
+}
+
+p.paragraph span.paragraph-text-14 {
+  font-weight: 700;
+}
+
+p.paragraph span.paragraph-text-15 {
+  font-weight: 700;
+}
+
+p.paragraph span.paragraph-text-16 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+p.paragraph span.paragraph-text-17 {
+  font-style: italic;
+}
+
+a.link-text.menu-item {
+  display: block;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  border-bottom: .125rem solid transparent;
+  color: #00bdff;
+  text-align: center;
+  font-size: 34px;
+  font-family: 'Poppins', sans-serif;
+}
+
+a.link-text.project-name-link {
+  background-color: transparent;
+  box-shadow: none;
+  color: #fefefe;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 1) 2px 2px 4px, rgba(25, 25, 25, .94) 2px 2px 16px, rgba(0, 0, 0, .39) 0 0 40px, rgba(0, 0, 0, .44) 0 0 64px;
+  font-weight: 600;
+  font-size: 28px;
+  font-family: 'Poppins', sans-serif;
+  opacity: 1;
+
+  -webkit-text-stroke-width: 0;
+  -webkit-text-stroke-color: transparent;
+}
+
+a.link-text.menu-item:hover {
+  border-bottom: .0625rem solid #00ffe3;
+  text-decoration: none;
+}
+
+/* Interaction Elements */
+
+form.form-container.contact-form {
+  margin-top: 1rem;
+  min-width: 0;
+}
+
+input[type=text].input-1 {
+  border-radius: 0 8px 8px;
+}
+
+input[type=email].email-1 {
+  border-radius: 0 8px 8px;
+}
+
+textarea.message {
+  min-height: 150px;
+  border-radius: 0 8px 8px;
+}
+
+label.label.field-label {
+  background-color: #373737;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+/* Layout Elements */
+
+body.body-1 {
+  background-color: #001737;
+}
+
+body.body-2 {
+  background-color: #002459;
+}
+
+body.body-3 {
+  background-color: #002459;
+}
+
+.container.project-3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #e59100;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .4) 0%, rgba(29, 30, 33, .16) 100%), url('../images/nelie.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .4) 0%, rgba(29, 30, 33, .16) 100%), url('../images/nelie.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .4) 0%, rgba(29, 30, 33, .16) 100%), url('../images/nelie.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, .4) 0%, rgba(29, 30, 33, .16) 100%), url('../images/nelie.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  min-height: 40vh;
+  background-color: #ff4630;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/infinity_art.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/infinity_art.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/infinity_art.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/infinity_art.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #0087d4;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .16) 100%), url('../images/Abrisuite_new.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .16) 100%), url('../images/Abrisuite_new.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .16) 100%), url('../images/Abrisuite_new.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .16) 100%), url('../images/Abrisuite_new.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.transversal-navigation {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  margin-top: 4rem;
+  min-height: 50vh;
+  max-width: none;
+
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+
+.container.previous-project {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  background-color: #ff4630;
+  background-image: url('https://cdn.coffeecupcloud.com/appresources/v1/common/background_online_image.png');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: repeat;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: soft-light;
+}
+
+.container.next-project {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  background-color: #0087d4;
+  background-image: url('https://cdn.coffeecupcloud.com/appresources/v1/common/background_online_image.png');
+  background-attachment: scroll;
+  background-position: center center;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: cover;
+  background-repeat: repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: soft-light;
+}
+
+.container.about-me-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  padding: 2rem;
+  min-height: 30vh;
+  background-color: #002459;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+}
+
+.container.contact-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  padding: 2rem;
+  min-height: 70vh;
+  background-color: #002459;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+}
+
+.container.orbit {
+  margin: 2rem auto;
+  padding-right: 0;
+  padding-left: 0;
+  max-width: 1200px;
+}
+
+.container.surrounding-padding-col-1 {
+  -ms-flex-pack: center;
+  padding: 10vw 40px;
+  background-color: #15161a;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: no-repeat;
+
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: normal;
+}
+
+.container.featured-projects.surrounding-padding-col-1 {
+  -ms-flex-align: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  min-height: 50vh;
+  background-color: transparent;
+  background-image: none;
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: 0 0;
+  background-repeat: no-repeat;
+
+  background-blend-mode: normal;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+}
+
+.container.six-hundred-centered-cont {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: none;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+}
+
+.container.project-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #004c97;
+  background-image: -webkit-linear-gradient(top, rgba(24, 24, 24, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/lmax.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(24, 24, 24, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/lmax.jpg');
+  background-image:      -o-linear-gradient(top, rgba(24, 24, 24, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/lmax.jpg');
+  background-image:         linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/lmax.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.container-get_in_touch {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2rem 1rem;
+  min-width: 0;
+  max-width: none;
+  width: 100%;
+}
+
+.container.footer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 250px;
+  background-color: #002459;
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 23, 55, 1) 16%, rgba(29, 30, 33, 0) 54%);
+  background-image:    -moz-linear-gradient(bottom, rgba(0, 23, 55, 1) 16%, rgba(29, 30, 33, 0) 54%);
+  background-image:      -o-linear-gradient(bottom, rgba(0, 23, 55, 1) 16%, rgba(29, 30, 33, 0) 54%);
+  background-image:         linear-gradient(0deg, rgba(0, 23, 55, 1) 16%, rgba(29, 30, 33, 0) 54%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal;
+}
+
+.container.header {
+  position: -webkit-sticky;
+  position:         sticky;
+  top: 0;
+  z-index: 1000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  min-width: 10px;
+  min-height: 59px;
+  background-color: #002459;
+  background-image: -webkit-linear-gradient(top, rgba(0, 53, 115, 1) 8%, rgba(0, 36, 89, 1) 60%);
+  background-image:    -moz-linear-gradient(top, rgba(0, 53, 115, 1) 8%, rgba(0, 36, 89, 1) 60%);
+  background-image:      -o-linear-gradient(top, rgba(0, 53, 115, 1) 8%, rgba(0, 36, 89, 1) 60%);
+  background-image:         linear-gradient(180deg, rgba(0, 53, 115, 1) 8%, rgba(0, 36, 89, 1) 60%);
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  background-repeat: repeat;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: normal;
+}
+
+.container.menu-wrapper {
+  display: none;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-bottom: 2rem;
+
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+}
+
+.container.big-quote-wrapper {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  float: none;
+  -ms-flex-align: center;
+  padding: 1rem;
+  min-height: 40vh;
+  background-color: #002459;
+  background-image: none;
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: 0 0;
+  background-repeat: no-repeat;
+  text-align: left;
+  font-size: 16px;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  background-blend-mode: normal;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+          align-content: center;
+  justify-self: center;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+          align-self: center;
+}
+
+.container.projects-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  min-height: 50vh;
+  max-width: none;
+
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+
+.container.big-project-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  padding: 2rem 1rem;
+  min-height: 50vh;
+  background-color: #fefefe;
+  background-image: none;
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: 0 0;
+  background-repeat: no-repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  background-blend-mode: normal;
+}
+
+.container.big-description-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px;
+}
+
+.container.skills-wrapper {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2rem 1rem;
+  min-width: 0;
+  max-width: none;
+  width: auto;
+}
+
+.container.brand-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  margin-top: 2.5rem;
+  margin-bottom: 4rem;
+
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+          align-content: center;
+}
+
+.container.brand-column {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  padding: 36px 16px;
+
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+}
+
+.container.menu-bar {
+  position: relative;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: justify;
+  -ms-flex-align: center;
+  margin-right: 0;
+  margin-left: 0;
+  min-width: 10px;
+  width: 100%;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+     -moz-box-pack: justify;
+          justify-content: space-between;
+}
+
+.container.project-1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #007397;
+  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 8%, rgba(0, 0, 0, .16) 52%), url('../images/Lipsum_Triangulus.PNG');
+  background-image:    -moz-linear-gradient(top, rgba(255, 255, 255, 0) 8%, rgba(0, 0, 0, .16) 52%), url('../images/Lipsum_Triangulus.PNG');
+  background-image:      -o-linear-gradient(top, rgba(255, 255, 255, 0) 8%, rgba(0, 0, 0, .16) 52%), url('../images/Lipsum_Triangulus.PNG');
+  background-image:         linear-gradient(180deg, rgba(255, 255, 255, 0) 8%, rgba(0, 0, 0, .16) 52%), url('../images/Lipsum_Triangulus.PNG');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+  -webkit-transition-delay: 0s;
+     -moz-transition-delay: 0s;
+       -o-transition-delay: 0s;
+          transition-delay: 0s;
+  -webkit-transition-timing-function: ease;
+     -moz-transition-timing-function: ease;
+       -o-transition-timing-function: ease;
+          transition-timing-function: ease;
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+  -webkit-transition-property: none;
+     -moz-transition-property: none;
+       -o-transition-property: none;
+          transition-property: none;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+  -webkit-transform-style: flat;
+     -moz-transform-style: flat;
+          transform-style: flat;
+  -webkit-perspective: 0;
+     -moz-perspective: 0;
+          perspective: 0;
+}
+
+.container.project-8 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: center;
+  float: left;
+  -ms-flex-align: center;
+  padding: 1rem;
+  min-height: 40vh;
+  background-color: #fefefe;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, left top;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, no-repeat;
+  text-align: left;
+  font-size: 16px;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+  background-blend-mode: normal, normal;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+          align-content: flex-start;
+  justify-self: center;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+          align-self: auto;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+
+.container.project-9 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: center;
+  float: none;
+  -ms-flex-align: center;
+  padding: 1rem;
+  min-height: 40vh;
+  background-color: #fefefe;
+  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:      -o-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:         linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, left top;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+  text-align: left;
+  font-size: 16px;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+  background-blend-mode: normal, normal;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+          align-content: flex-start;
+  justify-self: center;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+          align-self: auto;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+
+.container.project-7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #e59100;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/chefyohs2.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/chefyohs2.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/chefyohs2.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/chefyohs2.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #e59100;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .16) 0%, rgba(29, 30, 33, .16) 100%), url('../images/E-Commerce%20Intranet.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .16) 0%, rgba(29, 30, 33, .16) 100%), url('../images/E-Commerce%20Intranet.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .16) 0%, rgba(29, 30, 33, .16) 100%), url('../images/E-Commerce%20Intranet.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, .16) 0%, rgba(29, 30, 33, .16) 100%), url('../images/E-Commerce%20Intranet.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, contain;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.container-20 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  float: left;
+  clear: none;
+  -ms-flex-align: center;
+  margin-top: 0;
+  min-width: 100%;
+  min-height: 10vh;
+
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  justify-self: center;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+          align-self: center;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+          align-content: stretch;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+}
+
+.container.container-1 {
+  background-color: #002459;
+}
+
+.container.project-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #e59100;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Sketch_3.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Sketch_3.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Sketch_3.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Sketch_3.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, cover;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #e59100;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/rodian_mafia_logo.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/rodian_mafia_logo.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/rodian_mafia_logo.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/rodian_mafia_logo.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, contain;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #0087d4;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Rodian_mafia_typeface.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Rodian_mafia_typeface.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Rodian_mafia_typeface.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/Rodian_mafia_typeface.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, contain;
+  background-repeat: repeat, repeat;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.project-13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 40vh;
+  background-color: #0087d4;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/abc_techwknd.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/abc_techwknd.jpg');
+  background-image:      -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/abc_techwknd.jpg');
+  background-image:         linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/abc_techwknd.jpg');
+  background-attachment: scroll, scroll;
+  background-position: left top, center center;
+  background-clip: border-box, border-box;
+  background-origin: padding-box, padding-box;
+  background-size: auto auto, contain;
+  background-repeat: repeat, repeat-x;
+
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  background-blend-mode: normal, normal;
+}
+
+.container.projects-row:after {
+  display: none;
+}
+
+.container.projects-row:before {
+  display: none;
+}
+
+.container.menu-wrapper.show-menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:    -moz-box;
+  display: -ms-flexbox;
+  display:         flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+  min-height: 100vh;
+  background-color: #fff;
+
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+          justify-content: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+          align-content: center;
+}
+
+.container.project-2:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-3:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-4:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-5:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-1:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-7:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-10:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-8:hover {
+  background-color: #e49393;
+  background-image: -webkit-linear-gradient(top, rgba(178, 255, 143, .24) 0%, rgba(178, 255, 143, .5) 100%), -webkit-linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(178, 255, 143, .24) 0%, rgba(178, 255, 143, .5) 100%), -moz-linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:      -o-linear-gradient(top, rgba(178, 255, 143, .24) 0%, rgba(178, 255, 143, .5) 100%), -o-linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-image:         linear-gradient(180deg, rgba(178, 255, 143, .24) 0%, rgba(178, 255, 143, .5) 100%), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/bt_certi_centre.jpg');
+  background-attachment: scroll, scroll, scroll;
+  background-position: left top, 0 0, 0 0;
+  background-clip: border-box, border-box, border-box;
+  background-origin: padding-box, padding-box, padding-box;
+  background-size: auto auto, cover, cover;
+  background-repeat: repeat, no-repeat, repeat;
+  -webkit-transform: scaleX(1);
+     -moz-transform: scaleX(1);
+       -o-transform: scaleX(1);
+          transform: scaleX(1);
+
+  background-blend-mode: normal, normal, normal;
+  -webkit-transform-style: flat;
+     -moz-transform-style: flat;
+          transform-style: flat;
+}
+
+.container.project-9:hover {
+  background-color: transparent;
+  background-image: -webkit-linear-gradient(top, rgba(255, 137, 137, .3) 0%, rgba(255, 137, 137, .5) 100%), -webkit-linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:    -moz-linear-gradient(top, rgba(255, 137, 137, .3) 0%, rgba(255, 137, 137, .5) 100%), -moz-linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:      -o-linear-gradient(top, rgba(255, 137, 137, .3) 0%, rgba(255, 137, 137, .5) 100%), -o-linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-image:         linear-gradient(180deg, rgba(255, 137, 137, .3) 0%, rgba(255, 137, 137, .5) 100%), linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(29, 30, 33, .16) 100%), url('../images/reclame_cidade.jpg');
+  background-attachment: scroll, scroll, scroll;
+  background-position: left top, 0 0, 0 0;
+  background-clip: border-box, border-box, border-box;
+  background-origin: padding-box, padding-box, padding-box;
+  background-size: auto auto, cover, cover;
+  background-repeat: repeat, repeat, repeat;
+
+  background-blend-mode: normal, normal, normal;
+}
+
+.container.project-6:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-11:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-12:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+.container.project-13:hover {
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+
+  background-blend-mode: soft-light;
+}
+
+button.send-button {
+  margin-top: 1rem;
+  padding: 1rem 4rem;
+  border: .125rem solid #00ffe3;
+  border-radius: 32px;
+  background-color: transparent;
+  color: #00ffe3;
+  text-indent: 0;
+  word-spacing: 1px;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+
+  -webkit-text-stroke-color: #00ffe3;
+  -webkit-text-stroke-width: 0;
+}
+
+ul.list-container.orbit-container {
+  height: auto;
+}
+
+li.list-item-container.orbit-slide {
+  opacity: 0;
+}
+
+li.list-item-container.is-active.orbit-slide {
+  display: block;
+  opacity: 1;
+}
+
+div.responsive-picture.orbit-image {
+  max-width: none;
+}
+
+button.slide-indicator {
+  margin: .18rem 2.5%;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 100px;
+}
+
+button.is-active.slide-indicator {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 100px;
+  font-size: 16px;
+}
+
+div.responsive-picture {
+  padding-top: 0;
+  max-width: none;
+}
+
+div.responsive-picture.picture-brand {
+  width: 150px;
+  background-image: none;
+  background-attachment: scroll;
+  background-position: left top;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: 0 0;
+  background-repeat: no-repeat;
+
+  background-blend-mode: normal;
+}
+
+span.glyph.skills-icon {
+  color: #fcca1d;
+  font-size: 24px;
+}
+
+.rule.rule-2 {
+  margin-bottom: 1rem;
+}
+
+a.social-image.social-icon {
+  margin-right: 8px;
+  margin-left: 8px;
+  max-width: 40px;
+  background-color: transparent;
+}
+
+div.responsive-picture.big-picture {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  max-width: 1200px;
+}
+
+span.glyph.font-icon {
+  color: #fcca1d;
+  font-size: 26px;
+  line-height: 32px;
+}
+
+.rule.rule-contact {
+  max-width: 800px;
+  width: 100%;
+}
+
+.rule.rule-contact hr {
+  border-top-width: 2px;
+}
+
+.rule.rule-2 hr {
+  border-top-color: transparent;
+}
+
+a.glyph.menu-toggler {
+  color: #181818;
+  font-size: 28px;
+}
+
+a.social-image.social-icon:hover {
+  border-radius: 100px;
+  background-color: #003066;
+}
+
+div.responsive-picture.big-picture:hover {
+  -webkit-filter: saturate(1) sepia(0) invert(.07) hue-rotate(0deg) blur(0px) contrast(1);
+          filter: saturate(1) sepia(0) invert(.07) hue-rotate(0deg) blur(0px) contrast(1);
+  -webkit-transition-delay: 0s;
+     -moz-transition-delay: 0s;
+       -o-transition-delay: 0s;
+          transition-delay: 0s;
+  -webkit-transition-timing-function: ease-in;
+     -moz-transition-timing-function: ease-in;
+       -o-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+  -webkit-transition-duration: 1s;
+     -moz-transition-duration: 1s;
+       -o-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+button.send-button:hover {
+  background-color: #00ffe3;
+  color: #002459;
+}
+
+@media screen and (min-width: 22.5rem) {
+  /* Text Elements */
+
+  h2.centered.turquoise {
+    font-size: 28px;
+  }
+
+  /* Layout Elements */
+
+  .container.six-hundred-centered-cont {
+    max-width: 90%;
+  }
+}
+
+@media screen and (min-width: 27.5rem) {
+  /* Text Elements */
+
+  h1.big-text-name-project {
+    text-align: center;
+  }
+
+  h2.centered.turquoise {
+    color: #fcca1d;
+    font-size: 28px;
+  }
+
+  p.paragraph.body-text {
+    max-width: 1200px;
+  }
+
+  p.paragraph.about-me {
+    text-align: center;
+  }
+
+  p.paragraph.project-description {
+    text-align: center;
+  }
+
+  /* Layout Elements */
+
+  .container.six-hundred-centered-cont {
+    max-width: 90%;
+  }
+
+  .container.container-get_in_touch {
+    max-width: 800px;
+  }
+
+  .container.skills-wrapper {
+    max-width: 800px;
+  }
+
+  .container.brand-row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display:    -moz-box;
+    display: -ms-flexbox;
+    display:         flex;
+  }
+
+  a.glyph.menu-toggler {
+    color: #00ffe3;
+  }
+}
+
+@media screen and (min-width: 40rem) {
+  /* Text Elements */
+
+  h2.centered.turquoise {
+    font-size: 38px;
+  }
+
+  p.paragraph.about-me {
+    font-size: 38px;
+  }
+
+  p.paragraph.project-description {
+    font-size: 38px;
+  }
+
+  a.link-text.menu-item {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 18px;
+  }
+
+  a.link-text.menu-item:hover {
+    border-bottom-width: .125rem;
+    border-bottom-style: solid;
+  }
+
+  /* Layout Elements */
+
+  .container.surrounding-padding-col-1 {
+    background-color: #15161a;
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+    background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+    background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+    background-image:         linear-gradient(180deg, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0) 20%);
+  }
+
+  .container.six-hundred-centered-cont {
+    max-width: 90%;
+  }
+
+  .container.menu-bar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display:    -moz-box;
+    display: -ms-flexbox;
+    display:         flex;
+    -ms-flex-pack: center;
+
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+            justify-content: center;
+  }
+
+  .container.menu-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display:    -moz-box;
+    display: -ms-flexbox;
+    display:         flex;
+    margin-bottom: 0;
+  }
+
+  .container.header {
+    position: relative;
+  }
+
+  .container.project-2 {
+    min-height: 0;
+  }
+
+  .container.project-3 {
+    min-height: 50vh;
+  }
+
+  .container.project-5 {
+    min-height: 0;
+  }
+
+  .container.project-4 {
+    min-height: 0;
+  }
+
+  .container.project-1 {
+    min-height: 0;
+  }
+
+  .container.project-7 {
+    min-height: 0;
+  }
+
+  .container.project-10 {
+    min-height: 0;
+  }
+
+  .container.project-6 {
+    min-height: 50vh;
+  }
+
+  .container.project-11 {
+    min-height: 0;
+  }
+
+  .container.project-12 {
+    min-height: 0;
+  }
+
+  .container.project-13 {
+    min-height: 0;
+  }
+
+  button.slide-indicator {
+    margin-right: .1%;
+    margin-left: .1%;
+  }
+
+  a.glyph.menu-toggler {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  /* Text Elements */
+
+  h2.centered.turquoise {
+    color: #fcca1d;
+    font-variant: normal;
+  }
+
+  p.paragraph span.uppercase-p-1 {
+    text-transform: uppercase;
+    letter-spacing: .0625rem;
+  }
+
+  a.link-text.menu-item:hover {
+    border-bottom-style: solid;
+  }
+
+  /* Layout Elements */
+
+  .container.about-me-header {
+    background-color: #002459;
+  }
+
+  .container.contact-header {
+    background-color: #002459;
+  }
+
+  .container.surrounding-padding-col-1 {
+    padding-top: 8vw;
+    padding-bottom: 8vw;
+    background-color: #15161a;
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(29, 30, 33, 0) 20%);
+    background-image:    -moz-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(29, 30, 33, 0) 20%);
+    background-image:      -o-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(29, 30, 33, 0) 20%);
+    background-image:         linear-gradient(180deg, rgba(0, 0, 0, .2) 0%, rgba(29, 30, 33, 0) 20%);
+    background-attachment: scroll;
+    background-position: left top;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+
+    background-blend-mode: normal;
+  }
+
+  .container.container-get_in_touch {
+    max-width: 800px;
+  }
+
+  .container.six-hundred-centered-cont {
+    max-width: 1200px;
+  }
+
+  .container.big-quote-wrapper {
+    background-color: #002459;
+  }
+
+  .container.big-project-wrapper {
+    background-color: #fefefe;
+  }
+
+  .container.skills-wrapper {
+    max-width: 800px;
+  }
+
+  .container.brand-row {
+    -ms-flex-pack: center;
+    -ms-flex-align: center;
+
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+            justify-content: center;
+  }
+
+  .container.project-2 {
+    min-height: 4.07vh;
+  }
+
+  .container.project-4 {
+    min-height: 50vh;
+  }
+
+  .container.project-5 {
+    min-height: 50vh;
+  }
+
+  .container.project-1 {
+    min-height: 4.07vh;
+  }
+
+  .container.project-8 {
+    background-color: #fefefe;
+  }
+
+  .container.project-9 {
+    background-color: #fefefe;
+  }
+
+  .container.project-7 {
+    min-height: 50vh;
+  }
+
+  .container.project-10 {
+    min-height: 50vh;
+  }
+
+  .container.project-11 {
+    min-height: 50vh;
+  }
+
+  .container.project-12 {
+    min-height: 50vh;
+  }
+
+  .container.project-13 {
+    min-height: 50vh;
+  }
+
+  button.send-button:hover {
+    background-color: #00ffe3;
+  }
+}
